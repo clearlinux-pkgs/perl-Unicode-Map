@@ -4,7 +4,7 @@
 #
 Name     : perl-Unicode-Map
 Version  : 0.112
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/M/MS/MSCHWARTZ/Unicode-Map-0.112.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MS/MSCHWARTZ/Unicode-Map-0.112.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libu/libunicode-map-perl/libunicode-map-perl_0.112-12.debian.tar.xz
